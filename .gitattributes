@@ -1,0 +1,2 @@
+asl_model_saved/ filter=lfs diff=lfs merge=lfs -text
+asl_model_saved/*.h5 filter=lfs diff=lfs merge=lfs -text
