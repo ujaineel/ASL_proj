@@ -1,3 +1,3 @@
 American Sign Language Translator : This project involves translating basic American Sign Language letter gestures and phrases into english. Work in Progress.
 
-To be based on : https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Oquab_Is_Object_Localization_2015_CVPR_paper.html
+Currently, the model is an image classifier right now and recognizes ASL sign images with an average of 85-90%. Not an object/gesture detector yet but working on it.
